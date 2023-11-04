@@ -25,6 +25,3 @@ My programming experience includes C#, .NET 6, ASP.NET, Entity Framework, SQL (P
   <img src="https://img.shields.io/badge/linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=2aa889"/>&nbsp;
 </p>
 
-
-##
-
